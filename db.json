@@ -1,13 +1,15 @@
 {
   "posts": [
     {
-      "id": "1",
-      "data": [{
-        "id": "0001",
-        "note": "first note",
-        "date":"",
-        "time":""
-      }]
+      "data": [
+        {
+          "id": "c18f3f0a-b266-4a89-84b9-7e9df0615b5c",
+          "note": "First Note",
+          "date": "2023-12-12",
+          "time": "19:39"
+        }
+      ],
+      "id": "1"
     }
   ]
 }

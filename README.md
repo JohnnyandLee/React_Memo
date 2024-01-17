@@ -2,11 +2,9 @@
 
 ## Description
 
-This is a brief description of what your project is all about. It could be a web application, a utility library, a game, etc. Explain the purpose of the project and its high-level features.
+This project uses Node.js and React.js and connects to a json-server database. Follow the steps below to set up the project.
 
 ## Setup
-
-This project uses Node.js and React.js and connects to a json-server database. Follow the steps below to set up the project.
 
 ### Express.js Setup
 

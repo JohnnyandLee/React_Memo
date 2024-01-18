@@ -1,12 +1,15 @@
 # Memo App
 
+<p align="center">
+   <img src="react_memo.png">
+</p>
+
 ## Description
 
 This project uses Node.js and React.js and connects to a json-server database. Follow the steps below to set up the project.
 
 ## Setup
 
-### Express.js Setup
 
 1. Install Node.js and npm on your local machine.
 
